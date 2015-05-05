@@ -1,0 +1,110 @@
+Entering in PIT LANE: Student 18
+Entering in PIT LANE: Student 5
+Entering in PIT LANE: Student 24
+Entering in PIT LANE: Employeer 15
+Entering in PIT LANE: Student 16
+Entering in PIT LANE: Teacher 4
+Entering in PIT LANE: Student 27
+Entering in PIT LANE: Employeer 14
+Entering in PIT LANE: Teacher 3
+Entering in PIT LANE: Student 23
+Entering in PIT LANE: Student 2
+Entering in PIT LANE: Employeer 1
+Entering in PIT LANE: Student 14
+Entering in PIT LANE: Student 7
+Entering in PIT LANE: Teacher 8
+Entering in PIT LANE: Teacher 7
+Entering in PIT LANE: Student 1
+Entering in PIT LANE: Student 17
+Entering in PIT LANE: Student 9
+Entering in PIT LANE: Teacher 10
+Entering in PIT LANE: Student 13
+Entering in PIT LANE: Employeer 13
+Entering in PIT LANE: Student 3
+Entering in PIT LANE: Employeer 10
+Entering in PIT LANE: Student 10
+Entering in PIT LANE: Student 11
+Entering in PIT LANE: Teacher 5
+Entering in PIT LANE: Student 8
+Entering in PIT LANE: Student 4
+Entering in PIT LANE: Student 19
+Exiting PIT LANE: Student 18
+Exiting PIT LANE: Employeer 14
+Entering in PIT LANE: Teacher 9
+Entering in PIT LANE: Teacher 2
+Exiting PIT LANE: Student 23
+Exiting PIT LANE: Employeer 1
+Entering in PIT LANE: Teacher 1
+Exiting PIT LANE: Teacher 2
+Entering in PIT LANE: Teacher 6
+Entering in PIT LANE: Employeer 3
+Exiting PIT LANE: Student 8
+Exiting PIT LANE: Student 19
+Entering in PIT LANE: Employeer 8
+Entering in PIT LANE: Employeer 5
+Exiting PIT LANE: Teacher 7
+Entering in PIT LANE: Employeer 2
+Exiting PIT LANE: Employeer 3
+Entering in PIT LANE: Employeer 9
+Entering in PIT LANE: Employeer 7
+Exiting PIT LANE: Student 3
+Exiting PIT LANE: Student 13
+Entering in PIT LANE: Employeer 4
+Entering in PIT LANE: Employeer 6
+Exiting PIT LANE: Teacher 9
+Exiting PIT LANE: Student 17
+Exiting PIT LANE: Student 7
+Entering in PIT LANE: Employeer 12
+Entering in PIT LANE: Employeer 11
+Entering in PIT LANE: Student 12
+Exiting PIT LANE: Teacher 3
+Exiting PIT LANE: Student 11
+Exiting PIT LANE: Student 1
+Entering in PIT LANE: Student 20
+Entering in PIT LANE: Student 28
+Exiting PIT LANE: Employeer 10
+Entering in PIT LANE: Student 6
+Entering in PIT LANE: Student 25
+Exiting PIT LANE: Employeer 8
+Exiting PIT LANE: Employeer 15
+Entering in PIT LANE: Student 26
+Exiting PIT LANE: Student 4
+Exiting PIT LANE: Student 24
+Exiting PIT LANE: Employeer 5
+Entering in PIT LANE: Student 30
+Entering in PIT LANE: Student 22
+Entering in PIT LANE: Student 29
+Exiting PIT LANE: Student 10
+Exiting PIT LANE: Employeer 2
+Entering in PIT LANE: Student 21
+Entering in PIT LANE: Student 15
+Exiting PIT LANE: Student 26
+Exiting PIT LANE: Student 5
+Exiting PIT LANE: Teacher 5
+Exiting PIT LANE: Student 6
+Exiting PIT LANE: Employeer 13
+Exiting PIT LANE: Student 14
+Exiting PIT LANE: Teacher 8
+Exiting PIT LANE: Student 16
+Exiting PIT LANE: Student 9
+Exiting PIT LANE: Student 2
+Exiting PIT LANE: Teacher 6
+Exiting PIT LANE: Student 15
+Exiting PIT LANE: Employeer 7
+Exiting PIT LANE: Teacher 4
+Exiting PIT LANE: Teacher 10
+Exiting PIT LANE: Student 27
+Exiting PIT LANE: Employeer 9
+Exiting PIT LANE: Student 21
+Exiting PIT LANE: Teacher 1
+Exiting PIT LANE: Student 22
+Exiting PIT LANE: Student 30
+Exiting PIT LANE: Employeer 11
+Exiting PIT LANE: Student 28
+Exiting PIT LANE: Student 20
+Exiting PIT LANE: Student 25
+Exiting PIT LANE: Employeer 6
+Exiting PIT LANE: Employeer 4
+Exiting PIT LANE: Employeer 12
+Exiting PIT LANE: Student 12
+Exiting PIT LANE: Student 29
